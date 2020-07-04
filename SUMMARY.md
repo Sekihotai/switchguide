@@ -12,3 +12,7 @@
 
 * [Fusee Gelee](switch-exploits/fusee-gelee.md)
 
+## Tinfoil
+
+* [Shops](tinfoil/shops.md)
+
