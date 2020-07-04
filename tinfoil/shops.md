@@ -7,7 +7,7 @@ Tinfoil has the ability to add "shops", which are domains that you can add to al
 Benefits ✨ 
 
 * Has almost every game
-* Usually gets it faster than other shops
+* Usually gets new games, updates, and DLC faster than other shops
 * Has a stash that you can donate to for USB installing
 
 Detriments 📛 
