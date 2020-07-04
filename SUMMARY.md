@@ -14,9 +14,6 @@
 
 ## Tinfoil
 
+* [Exclusive Features](tinfoil/exclusive-features.md)
 * [Shops](tinfoil/shops.md)
-
----
-
-* [Exclusive Features](exclusive-features.md)
 
