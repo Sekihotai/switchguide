@@ -11,5 +11,4 @@
 ## Switch Exploits
 
 * [Fusee Gelee](switch-exploits/fusee-gelee.md)
-* [SX Core](switch-exploits/sx-core.md)
 

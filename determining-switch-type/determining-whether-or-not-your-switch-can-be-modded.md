@@ -6,7 +6,7 @@ Currently, all versions of the Nintendo Switch can be modified in order to run C
 
 The first iteration of the Switch is called Erista, and they were produced from the launch of the Switch up to June of 2018. The exploit used to boot into custom firmware is called the [**fusee gelee**](../switch-exploits/fusee-gelee.md) exploit. 
 
-The second iteration of the Switch is called Mariko, and it introduced various changes to the Switch, including a longer lasting battery. This revision patched the fusee gelee exploit, but is exploitable using the [SX Core modchip by Team Xecutor.](../switch-exploits/sx-core.md)
+The second iteration of the Switch is called Mariko, and it introduced various changes to the Switch, including a longer lasting battery. This revision patched the fusee gelee exploit, but is exploitable using the [SX Core modchip by Team Xecutor.]()
 
 The third iteration of the Switch is the Switch Lite, which is a cheaper device that doesn't have detachable Joycons or the ability to use the Dock. This version also requires the SX Core modchip to run custom firmware.
 
