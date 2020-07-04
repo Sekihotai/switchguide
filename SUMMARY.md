@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Switch Guide](README.md)
+* [Switch Stuff](README.md)
 * [FAQ](faq.md)
 * [ReiNX, Atmosphere, and SX](reinx-atmosphere-and-sx.md)
 
