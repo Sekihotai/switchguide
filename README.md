@@ -1,5 +1,6 @@
 # Switch Stuff
 
+https://mynameispeak.gitbook.io/switchstuff/
 A place where many pages relating to the Nintendo Switch are held. 
 
 Any questions? Contact me on Discord at **peak\#0001**
