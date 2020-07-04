@@ -16,7 +16,7 @@
 
 * [Exclusive Features](tinfoil/exclusive-features.md)
 * [Shops](tinfoil/shops.md)
-* [Tinfoil Errors](tinfoil/error-codes/README.md)
+* [Tinfoil Problems](tinfoil/error-codes/README.md)
   * [Common mistakes](tinfoil/error-codes/common-mistakes.md)
   * [Console Tab Errors](tinfoil/error-codes/console-tab-errors.md)
 

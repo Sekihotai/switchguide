@@ -1,6 +1,6 @@
-# Tinfoil Errors
+# Tinfoil Problems
 
 ## [Common mistakes](common-mistakes.md)
 
-## [Console Tab Errors](console-tab-errors.md)
+## [Console tab errors](console-tab-errors.md)
 
