@@ -1,6 +1,6 @@
 # Shops
 
-Tinfoil has the ability to add "shops", which are domains that you cna add to allow the installation of games from the internet. Currently, the two big shops are **/hbg/** and **Jack in the Shop**.
+Tinfoil has the ability to add "shops", which are domains that you can add to allow the installation of games from the internet. Currently, the two big shops are **/hbg/** and **Jack in the Shop**.
 
 ## /hbg/
 
