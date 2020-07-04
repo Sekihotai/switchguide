@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Switch Guide](README.md)
-* [FAQ](untitled.md)
+* [FAQ](faq.md)
 * [ReiNX, Atmosphere, and SX](reinx-atmosphere-and-sx.md)
 
 ## Determining Switch type
