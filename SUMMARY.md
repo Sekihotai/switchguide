@@ -19,5 +19,6 @@
 
 ---
 
-* [Error Codes](error-codes.md)
+* [Tinfoil Errors](error-codes/README.md)
+  * [Console Tab Errors](error-codes/console-tab-errors.md)
 
