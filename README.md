@@ -10,11 +10,11 @@ Any questions? Contact me on Discord at **peak\#0001** or just go to the Jack in
 
 ## Scene Servers
 
-[**Jack in the Shop**](https://discord.com/invite/vGqsaD2)
+[**Jack in the Shop**](https://discord.com/invite/vGqsaD2) **\(good for support, sm64 updates, and chatting\)**
 
-[**/hbg/**](https://discordapp.com/invite/kW29m2h)
+[**/hbg/**](https://discordapp.com/invite/kW29m2h) **\(would not recommend joining community server\)**
 
 [**Switch Pirates**](https://invite.gg/switchpirates)
 
-[**Rebirth**](http://discord.io/reborn-nx)
+[**Rebirth**](http://discord.io/reborn-nx) **\(has public stash for usb installing\)**
 
