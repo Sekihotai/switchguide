@@ -20,5 +20,6 @@
 ---
 
 * [Tinfoil Errors](error-codes/README.md)
+  * [Common mistakes](error-codes/common-mistakes.md)
   * [Console Tab Errors](error-codes/console-tab-errors.md)
 
