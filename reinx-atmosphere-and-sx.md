@@ -20,6 +20,7 @@ Detriments 📛
 
 * Doesn't have sigpatches built in
 * Still work in progress, has many bugs
+* Actively tries to stop installation of NSP's, including homebrew ones
 
 ## [ReiNX](https://github.com/Reisyukaku/ReiNX/releases)
 
@@ -28,6 +29,7 @@ Benefits ✨
 * Has sigpatches built in
 * Has own toolbox that can do nand backups
 * Free and open source
+* Access to Icon View in Tinfoil
 
 Detriments 📛 
 
@@ -43,13 +45,16 @@ Benefits ✨
 * Custom menu
 * Has ldn mitm built in
 * Has protection \(in the form of stealth mode, not recommended for long term use\) built in
+* [Has many exclusive features in Tinfoil](tinfoil/exclusive-features.md)
+* Can mount XCI's from external drive
 
 Detriments 📛 
 
 * Not free, you need to pay
 * Not open source
 * Sometimes breaks other homebrew 
-* Based on Atmosphere
+* Based on Atmosphere, which is already free
+* Not frequently updated
 
 ## What about those CFW packs that have everything already there?
 
