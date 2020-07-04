@@ -2,6 +2,7 @@
 
 * [Switch Guide](README.md)
 * [FAQ](untitled.md)
+* [ReiNX, Atmosphere, and SX](reinx-atmosphere-and-sx.md)
 
 ## Determining Switch type
 
@@ -11,8 +12,4 @@
 
 * [Fusee Gelee](switch-exploits/fusee-gelee.md)
 * [SX Core](switch-exploits/sx-core.md)
-
----
-
-* [ReiNX, Atmosphere, and SX](reinx-atmosphere-and-sx.md)
 

@@ -6,7 +6,7 @@ description: 'How are they the same, and how are they different?'
 
 ReiNX, Atmosphere, and SX all have advantages and disadvantages.
 
-## Atmosphere
+## [Atmosphere](https://github.com/Atmosphere-NX/Atmosphere/releases)
 
 Benefits ✨ 
 
@@ -21,7 +21,7 @@ Detriments 📛
 * Doesn't have sigpatches built in
 * Still work in progress, has many bugs
 
-## ReiNX
+## [ReiNX](https://github.com/Reisyukaku/ReiNX/releases)
 
 Benefits ✨ 
 
@@ -35,7 +35,7 @@ Detriments 📛
 * Not frequently updated 
 * Doesn't have built in prodinfo blanking
 
-## SX OS
+## [SX OS](https://sx.xecuter.com/)
 
 Benefits ✨ 
 
