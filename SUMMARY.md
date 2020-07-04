@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Switch Guide](README.md)
+* [FAQ](untitled.md)
 
 ## Determining Switch type
 
@@ -10,8 +11,4 @@
 
 * [Fusee Gelee](switch-exploits/fusee-gelee.md)
 * [SX Core](switch-exploits/sx-core.md)
-
----
-
-* [FAQ](untitled.md)
 
