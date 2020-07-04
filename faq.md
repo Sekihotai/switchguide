@@ -20,3 +20,7 @@ Incognito is by far the safest of the three, but the least convenient. To revers
 
 FSS0 is a boot method that uses fusee secondary to boot instead of fusee primary. While this method is great for using custom firmware on your sysnand, it isn't great for much else, including installing pirated or homebrew NSP's since it doesn't load the sigpatches correctly. It causes many problems that require moving to regular fusee primary and reinstalling the game, which is why its better to use fusee primary.
 
+## What are sysmodules?
+
+Sysmodules are applications that run in the background on your Switch. They can do almost anything, from [running an FTP server in the background for seamless file transferring](https://github.com/cathery/sys-ftpd-light) to [playing music while you're using the Nintendo Switch.](https://github.com/HookedBehemoth/sys-tune) They can even [allow you to play multiplayer without the need to pay for Nintendo Switch Online.](https://github.com/spacemeowx2/ldn_mitm)
+
