@@ -21,6 +21,7 @@ Detriments 📛
 * Doesn't have sigpatches built in
 * Still work in progress, has many bugs
 * Actively tries to stop installation of NSP's, including homebrew ones
+* Can't set your own splash screen
 
 ## [ReiNX](https://github.com/Reisyukaku/ReiNX/releases)
 
@@ -30,6 +31,7 @@ Benefits ✨
 * Has own toolbox that can do nand backups
 * Free and open source
 * Access to Icon View in Tinfoil
+* You can set your own splash screen
 
 Detriments 📛 
 
@@ -55,6 +57,7 @@ Detriments 📛
 * Sometimes breaks other homebrew 
 * Based on Atmosphere, which is already free
 * Not frequently updated
+* Can't set your own splash screen
 
 ## What about those CFW packs that have everything already there?
 
