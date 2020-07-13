@@ -7,14 +7,15 @@ Tinfoil has the ability to add "shops", which are domains that you can add to al
 Benefits ✨ 
 
 * Has almost every game
-* Usually gets new games, updates, and DLC faster than other shops
-* Has a stash that you can donate to for USB installing
+* Sometimes gets new games, updates, and DLC faster than other shops
+* You can donate to get access to a donator drive for USB installing
+* Dumps almost every game in any other shop
 
 Detriments 📛 
 
-* Doesn't allow you to use your own theme, has to be one approved by /hbg/
-* Doesn't have first parties, you have to pay for those
-* Discord server gets deleted every three months by Discord Administrators
+* Doesn't allow you to use your own theme, has to be one approved by /hbg/ (not going to happen)
+* Doesn't have first parties, you have to pay for access to the shared drive that has them
+* Discord server gets deleted a lot by Discord Administrators, which makes it harder to get the latest news about /hbg/
 * Website uptime has been shotty lately
 * Donator spreadsheet is broken
 
@@ -26,13 +27,12 @@ Benefits ✨
 * Has first parties
 * Uptime is better
 * Has generally faster speeds 
-* Discord server always up
+* Discord server almost always up
 
 Detriments 📛 
 
-* Doesn't have a donator drive that you can pay for to use USB
-* Sometimes takes a while to sync the drives
-* Will occasionally break 
+* Doesn't have a donator drive that you can pay for 
+* Sometimes takes a while to sync the drives for the Tinfoil shop
+* Will occasionally break due to changes inside Tinfoil or problems within Google Drive
 
-## Note that almost every game in any shop is dumped by /hbg/.
-
+## Shops use Google Drive, not p2p, so you won't get any copyright complaints from your ISP
