@@ -35,5 +35,5 @@ Detriments 📛
 * Sometimes takes a while to sync the drives for the Tinfoil shop
 * Will occasionally break due to changes inside Tinfoil or problems within Google Drive
 ##
-**Shops use Google Drive, not p2p, so you won't get any copyright complaints from your ISP**
-##
+## Shops use Google Drive, not p2p, so you won't get any copyright complaints from your ISP
+
