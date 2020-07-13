@@ -13,7 +13,7 @@ Benefits ✨
 
 Detriments 📛
 
-* Doesn't allow you to use your own theme, has to be one approved by /hbg/ (not going to happen)
+* Doesn't allow you to use your own theme, has to be one approved by /hbg/ \(not going to happen\)
 * Doesn't have first parties, you have to pay for access to the shared drive that has them
 * Discord server gets deleted a lot by Discord Administrators, which makes it harder to get the latest news about /hbg/
 * Website uptime has been shotty lately, but has improved a bit
@@ -46,5 +46,5 @@ Detriments 📛
 
 * ONLY has first party games, no other games
 
-##
 ## Shops use Google Drive, not p2p, so you won't get any copyright complaints from your ISP
+

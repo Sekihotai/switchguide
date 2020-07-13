@@ -47,7 +47,7 @@ Benefits ✨
 * Custom menu
 * Has ldn mitm built in
 * Has protection \(in the form of stealth mode, not recommended for long term use\) built in
-* [Has many exclusive features in Tinfoil](tinfoil/exclusive-features.md)
+* [Has many exclusive features in Tinfoil]()
 * Can mount XCI's from external drive
 
 Detriments 📛 
