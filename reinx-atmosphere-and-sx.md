@@ -61,3 +61,4 @@ Detriments 📛
 ## What about those CFW packs that have everything already there?
 
 Don't use those. Ever since AtlasNX \(and by extension Kosmos\) died, CFW packs have been popping up all over GitHub. **Don't use these.** While it maybe seem like its great to have many homebrews bundled together, it makes troubleshooting much harder, and also permanently breaks emuMMC's, preventing them from switching to Vanilla Atmosphere without redoing the entire emuMMC. They also use FSS0, which is great for booting CFW on sysnand, but it's not great for anything else, including installing any NSP's. Always use regular Atmosphere with sigpatches. Use [hbappstore](https://github.com/vgmoose/hb-appstore/releases) if you're too lazy to get the homebrews from GitHub.
+

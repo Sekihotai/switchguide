@@ -16,3 +16,7 @@
 
 * [Shops](tinfoil/shops.md)
 
+---
+
+* [Title Installers](title-installers.md)
+
