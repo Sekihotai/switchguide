@@ -34,5 +34,17 @@ Detriments 📛
 * Doesn't have a donator drive that you can pay for
 * Sometimes takes a while to sync the drives for the Tinfoil shop, depending on whether or not the maintainers are available
 * Will occasionally break due to changes inside Tinfoil or problems within Google Drive
+
+## [Party Shop](https://partyshop.xyz)
+
+Benefits ✨
+
+* Has first party games
+* Allows you to use any theme
+
+Detriments 📛
+
+* ONLY has first party games, no other games
+
 ##
 ## Shops use Google Drive, not p2p, so you won't get any copyright complaints from your ISP
