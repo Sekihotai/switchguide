@@ -6,7 +6,7 @@ description: Facts and Questions
 
 ## What are sigpatches?
 
-Sigpatches are files that allow you to play pirated games on your Nintendo Switch. ReiNX and SX OS both have sigpatches built in, while Atmosphere does not.
+Sigpatches are files that allow you to play pirated games on your Nintendo Switch. ReiNX and SX OS both have sigpatches built in, while Atmosphere does not. There are two types of sigpatches. The first are FileSystem patches, also known as FS patches. These allow you to install unsigned games, such as leaks and converts. ES patches are used for installing NSP's (piracy). 
 
 ## What are tickets?
 
@@ -23,4 +23,3 @@ FSS0 is a boot method that uses fusee secondary to boot instead of fusee primary
 ## What are sysmodules?
 
 Sysmodules are applications that run in the background on your Switch. They can do almost anything, from [running an FTP server in the background for seamless file transferring](https://github.com/cathery/sys-ftpd-light) to [playing music while you're using the Nintendo Switch.](https://github.com/HookedBehemoth/sys-tune) They can even [allow you to play multiplayer without the need to pay for Nintendo Switch Online.](https://github.com/spacemeowx2/ldn_mitm)
-
