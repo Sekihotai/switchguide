@@ -68,3 +68,4 @@ Detriments 📛
 * Cannot download from any cloud service
 * Does not have NCA verification
 * Does not have forwarder support
+
