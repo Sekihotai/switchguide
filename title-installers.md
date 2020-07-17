@@ -16,15 +16,16 @@ Benefits ✨
 * Uses titledb to automatically fetch covers and blurbs for games
 * Updates frequently
 * Supports NSZ and XCZ formats
-* Installs to nand so it's faster
+* Installs itself to nand for speed boost
 * Has file browser
+* Can download from a private shared drive  
 
 Detriments 📛
 
 * Has been known to include offensive statements within the installer
 * Some features are locked away behind a SX OS license
 * Not open source
-* Allows shops to use theme DRM
+* Has shop DRM built in
 
 ## [Awoo Installer](https://github.com/Huntereb/Awoo-Installer/releases)
 
@@ -35,7 +36,6 @@ Benefits ✨
 * Installs quickly
 * Supports NSZ and XCZ file formats
 * Has NCA verification
-* Can install sigpatches for you
 * You can turn off the anime
 * Based on Old Tinfoil
 * Has translations
@@ -46,6 +46,7 @@ Detriments 📛
 * Doesn't support shops
 * Cannot manage tickets
 * Doesn't have a file browser
+* Built in sigpatches aren't maintained
 
 ## [Goldleaf](https://github.com/XorTroll/Goldleaf/releases)
 
@@ -65,5 +66,5 @@ Detriments 📛
 * Not frequently updated
 * Randomly fails when installing
 * Cannot download from any cloud service
-* Does NOT have NCA verification
+* Does not have NCA verification
 * Does not have forwarder support
