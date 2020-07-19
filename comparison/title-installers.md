@@ -16,7 +16,7 @@ Benefits ✨
 * Uses titledb to automatically fetch covers and blurbs for games
 * Updates frequently
 * Supports NSZ and XCZ formats
-* Installs itself to nand for speed boost
+* Installs itself to nand for faster performance
 * Has file browser
 * Can download from a private shared drive  
 
@@ -68,4 +68,3 @@ Detriments 📛
 * Cannot download from any cloud service
 * Does not have NCA verification
 * Does not have forwarder support
-
